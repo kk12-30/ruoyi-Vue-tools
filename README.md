@@ -2,4 +2,4 @@
 
 本工具适用于若依vue的漏洞检测，其他系统推荐使用https://github.com/kk12-30/JSSS-Find
 
-![image](v5.png)
+![image](v6.png)
